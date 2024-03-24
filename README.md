@@ -4,7 +4,7 @@ The program uses the technique of steganography.
 It converst ASCII values of characters into the blue channel of the pixels of image.
 
 # Requirements
-Python 3.x
+Python 3.x  
 Modules: PIL, tkinter
 
 # Usage
